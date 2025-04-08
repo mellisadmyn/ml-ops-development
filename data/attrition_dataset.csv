@@ -1,0 +1,1059 @@
+OverTime,MaritalStatus,TotalWorkingYears,Age,MonthlyIncome,JobRole,Department,Attrition
+No,Married,15,37,4777,Healthcare Representative,Research & Development,1
+Yes,Married,18,51,2461,Research Scientist,Research & Development,1
+No,Married,23,42,13525,Sales Executive,Sales,0
+Yes,Married,6,40,7457,Sales Executive,Sales,0
+Yes,Married,24,55,19859,Manager,Research & Development,1
+No,Single,8,36,2153,Laboratory Technician,Research & Development,0
+No,Single,10,32,11159,Research Director,Research & Development,0
+No,Married,5,25,4256,Sales Executive,Sales,0
+No,Single,1,20,2973,Laboratory Technician,Research & Development,1
+No,Single,16,42,15992,Research Director,Research & Development,0
+Yes,Married,10,31,5855,Healthcare Representative,Research & Development,0
+Yes,Divorced,17,38,5329,Research Scientist,Research & Development,0
+No,Single,20,39,4553,Healthcare Representative,Research & Development,0
+No,Married,24,54,19406,Research Director,Research & Development,0
+No,Married,23,49,18711,Manager,Research & Development,0
+Yes,Married,6,24,2725,Research Scientist,Research & Development,0
+No,Single,22,40,13237,Manufacturing Director,Research & Development,0
+No,Single,16,41,6230,Sales Executive,Sales,0
+Yes,Married,13,32,5228,Sales Executive,Sales,0
+Yes,Married,6,24,2293,Research Scientist,Research & Development,1
+Yes,Divorced,21,39,17123,Manager,Research & Development,0
+No,Married,7,59,2267,Human Resources,Human Resources,0
+Yes,Married,17,36,6586,Healthcare Representative,Research & Development,0
+No,Divorced,10,30,3491,Laboratory Technician,Research & Development,0
+No,Married,7,38,2844,Human Resources,Human Resources,0
+No,Married,5,28,2909,Sales Representative,Sales,1
+Yes,Divorced,3,31,2695,Research Scientist,Research & Development,0
+No,Single,7,36,6653,Sales Executive,Sales,0
+Yes,Married,9,32,6162,Manufacturing Director,Research & Development,0
+No,Married,5,28,4221,Sales Executive,Sales,0
+Yes,Married,12,31,6172,Sales Executive,Sales,1
+No,Married,4,50,3875,Sales Representative,Sales,0
+No,Divorced,19,39,9613,Healthcare Representative,Research & Development,0
+No,Married,6,35,2426,Laboratory Technician,Research & Development,0
+No,Married,10,32,6524,Sales Executive,Sales,0
+No,Divorced,1,26,2377,Laboratory Technician,Research & Development,1
+No,Married,11,30,4152,Healthcare Representative,Research & Development,0
+No,Single,10,38,9526,Manufacturing Director,Research & Development,0
+No,Single,3,21,3447,Sales Representative,Sales,0
+No,Single,17,35,10221,Manufacturing Director,Research & Development,0
+No,Divorced,6,26,6397,Manufacturing Director,Research & Development,0
+Yes,Married,7,31,3722,Laboratory Technician,Research & Development,1
+No,Married,8,32,2370,Laboratory Technician,Research & Development,0
+No,Single,10,32,5396,Sales Executive,Sales,0
+No,Divorced,14,34,2768,Research Scientist,Research & Development,0
+No,Married,12,33,11878,Manager,Research & Development,0
+No,Divorced,20,47,5070,Manufacturing Director,Research & Development,0
+No,Married,7,30,3833,Laboratory Technician,Research & Development,0
+Yes,Married,9,58,3346,Research Scientist,Research & Development,0
+No,Married,17,37,10609,Sales Executive,Sales,1
+No,Single,2,38,2288,Laboratory Technician,Research & Development,0
+No,Single,7,43,5346,Sales Executive,Sales,1
+Yes,Married,24,52,13247,Manufacturing Director,Research & Development,0
+Yes,Divorced,9,44,5454,Sales Executive,Sales,0
+No,Married,7,59,2177,Research Scientist,Research & Development,0
+No,Divorced,11,42,5265,Manufacturing Director,Research & Development,0
+No,Married,9,45,4805,Sales Executive,Sales,0
+No,Single,1,21,2693,Research Scientist,Research & Development,1
+No,Married,5,23,2819,Research Scientist,Research & Development,0
+No,Married,16,54,5940,Sales Executive,Sales,0
+No,Married,10,41,3376,Research Scientist,Research & Development,0
+Yes,Divorced,24,45,10851,Healthcare Representative,Research & Development,0
+No,Single,23,45,8865,Sales Executive,Sales,0
+No,Married,24,55,10239,Sales Executive,Sales,0
+No,Married,10,34,9547,Manufacturing Director,Research & Development,0
+No,Married,13,57,4900,Research Scientist,Research & Development,0
+No,Married,7,33,2622,Research Scientist,Research & Development,0
+No,Divorced,4,32,2314,Laboratory Technician,Research & Development,0
+No,Single,2,21,2625,Laboratory Technician,Research & Development,1
+No,Divorced,3,34,2351,Sales Representative,Sales,1
+No,Single,7,27,9981,Sales Executive,Sales,0
+No,Divorced,7,36,2741,Laboratory Technician,Research & Development,0
+No,Married,23,41,19545,Research Director,Research & Development,1
+No,Divorced,15,33,7725,Healthcare Representative,Research & Development,0
+No,Single,0,18,1904,Laboratory Technician,Research & Development,1
+No,Single,7,27,2279,Research Scientist,Research & Development,0
+No,Married,4,22,4775,Manufacturing Director,Research & Development,0
+Yes,Married,8,33,2436,Laboratory Technician,Research & Development,1
+No,Married,7,42,4523,Healthcare Representative,Research & Development,0
+No,Divorced,10,29,2720,Research Scientist,Research & Development,0
+No,Married,10,35,5363,Laboratory Technician,Research & Development,0
+No,Divorced,9,37,8834,Sales Executive,Sales,0
+No,Married,33,52,19845,Manager,Sales,1
+No,Married,10,31,6929,Sales Executive,Sales,0
+No,Single,1,29,2642,Sales Representative,Sales,0
+No,Married,6,32,4707,Sales Executive,Sales,1
+Yes,Married,10,35,9884,Healthcare Representative,Research & Development,0
+No,Married,25,43,19740,Research Director,Research & Development,0
+No,Single,4,33,2500,Research Scientist,Research & Development,0
+Yes,Divorced,8,37,6694,Sales Executive,Sales,0
+Yes,Single,8,27,2394,Research Scientist,Research & Development,1
+No,Married,6,28,3201,Research Scientist,Research & Development,0
+No,Divorced,9,27,8793,Manufacturing Director,Research & Development,0
+No,Divorced,9,37,6334,Sales Executive,Sales,0
+No,Married,4,27,2539,Research Scientist,Research & Development,0
+No,Divorced,13,37,2793,Sales Representative,Sales,0
+No,Single,10,31,6812,Healthcare Representative,Research & Development,0
+No,Single,25,48,18265,Research Director,Research & Development,0
+No,Married,10,36,5228,Manufacturing Director,Research & Development,0
+No,Married,14,37,6474,Manufacturing Director,Research & Development,0
+No,Single,12,38,8686,Sales Executive,Sales,0
+No,Divorced,8,32,4403,Sales Executive,Sales,0
+No,Single,10,28,3660,Research Scientist,Research & Development,0
+No,Single,18,43,4739,Research Scientist,Research & Development,0
+Yes,Married,12,30,3579,Research Scientist,Research & Development,0
+No,Single,10,33,17444,Manager,Sales,0
+No,Divorced,4,43,4765,Manufacturing Director,Research & Development,0
+Yes,Married,20,42,13191,Research Director,Research & Development,0
+No,Married,17,37,3452,Laboratory Technician,Research & Development,0
+No,Married,3,24,2400,Sales Representative,Sales,0
+Yes,Married,15,37,4449,Research Scientist,Research & Development,0
+Yes,Married,17,37,9602,Sales Executive,Sales,0
+No,Divorced,20,40,5605,Research Scientist,Research & Development,0
+No,Single,12,55,5160,Sales Executive,Sales,1
+No,Single,10,34,6125,Sales Executive,Sales,0
+No,Single,0,18,1200,Sales Representative,Sales,0
+No,Single,22,41,16015,Manager,Sales,0
+No,Married,11,44,4768,Sales Executive,Sales,0
+No,Married,10,42,6825,Sales Executive,Sales,0
+No,Single,21,51,13734,Healthcare Representative,Research & Development,0
+Yes,Single,4,32,3730,Laboratory Technician,Research & Development,1
+No,Divorced,10,31,11557,Manager,Sales,0
+No,Married,4,31,4148,Manufacturing Director,Research & Development,0
+No,Single,4,30,2422,Laboratory Technician,Research & Development,1
+No,Married,6,36,2543,Research Scientist,Research & Development,0
+No,Divorced,4,28,2207,Laboratory Technician,Research & Development,0
+No,Married,7,30,9957,Manufacturing Director,Research & Development,0
+No,Married,2,35,2014,Sales Representative,Sales,0
+No,Single,25,59,10512,Manufacturing Director,Research & Development,0
+No,Married,13,39,10920,Healthcare Representative,Research & Development,0
+No,Single,10,29,4554,Sales Executive,Sales,0
+Yes,Divorced,11,34,9950,Human Resources,Human Resources,1
+No,Single,10,36,4485,Research Scientist,Research & Development,0
+No,Divorced,8,30,3204,Research Scientist,Research & Development,0
+Yes,Divorced,9,27,12808,Research Director,Research & Development,0
+No,Married,10,43,9985,Healthcare Representative,Research & Development,0
+Yes,Divorced,12,38,11510,Research Director,Research & Development,0
+No,Married,3,31,2791,Sales Representative,Sales,0
+No,Divorced,10,30,5304,Sales Executive,Sales,0
+Yes,Married,23,44,13320,Sales Executive,Sales,0
+No,Married,5,23,2500,Laboratory Technician,Research & Development,0
+No,Single,1,21,1416,Laboratory Technician,Research & Development,1
+Yes,Married,8,31,2356,Research Scientist,Research & Development,0
+No,Divorced,28,46,10096,Sales Executive,Sales,1
+No,Single,19,53,2450,Laboratory Technician,Research & Development,0
+No,Married,7,49,3580,Research Scientist,Research & Development,0
+Yes,Divorced,19,46,4615,Research Scientist,Research & Development,0
+Yes,Married,7,31,3929,Research Scientist,Research & Development,0
+Yes,Married,32,58,19701,Research Director,Research & Development,0
+No,Single,10,34,4568,Sales Executive,Sales,0
+No,Married,5,35,2194,Research Scientist,Research & Development,0
+Yes,Divorced,7,32,3298,Research Scientist,Research & Development,0
+No,Single,6,35,4230,Laboratory Technician,Research & Development,0
+Yes,Single,1,19,2994,Research Scientist,Research & Development,0
+No,Single,6,28,8463,Sales Executive,Sales,0
+No,Married,14,32,10400,Sales Executive,Sales,1
+No,Married,12,43,5562,Healthcare Representative,Research & Development,0
+No,Divorced,9,37,5731,Healthcare Representative,Research & Development,0
+No,Married,14,38,6553,Manufacturing Director,Research & Development,0
+Yes,Married,12,30,6347,Human Resources,Human Resources,0
+Yes,Married,13,53,2306,Sales Representative,Sales,0
+No,Married,20,42,4907,Sales Executive,Sales,0
+No,Divorced,1,30,2083,Research Scientist,Research & Development,0
+Yes,Married,1,25,2413,Sales Representative,Sales,1
+No,Single,35,53,16598,Research Director,Research & Development,0
+No,Divorced,2,29,2297,Sales Representative,Sales,0
+Yes,Single,22,42,13758,Sales Executive,Sales,1
+No,Single,6,34,2553,Research Scientist,Research & Development,0
+No,Divorced,6,28,4936,Human Resources,Human Resources,0
+Yes,Married,22,43,16064,Manager,Sales,0
+No,Married,7,37,6502,Sales Executive,Sales,0
+No,Single,10,44,5985,Human Resources,Human Resources,0
+No,Divorced,5,34,2029,Research Scientist,Research & Development,0
+No,Single,7,28,5253,Sales Executive,Sales,0
+No,Married,8,40,8396,Sales Executive,Sales,0
+No,Married,6,34,6500,Sales Executive,Sales,0
+No,Single,10,44,5933,Healthcare Representative,Research & Development,0
+No,Single,6,25,3424,Research Scientist,Research & Development,0
+No,Single,8,34,2960,Research Scientist,Research & Development,1
+No,Married,33,60,19566,Manager,Research & Development,0
+No,Married,7,32,9204,Sales Executive,Sales,0
+No,Single,8,36,4678,Research Scientist,Research & Development,0
+No,Single,10,32,4025,Laboratory Technician,Research & Development,0
+No,Married,21,42,16799,Manager,Human Resources,0
+Yes,Married,8,40,6380,Sales Executive,Sales,1
+Yes,Single,6,25,5744,Sales Executive,Sales,1
+No,Married,6,24,2774,Laboratory Technician,Research & Development,0
+Yes,Married,10,35,4014,Healthcare Representative,Research & Development,0
+No,Married,12,48,8120,Sales Executive,Sales,0
+No,Divorced,32,50,17399,Research Director,Research & Development,0
+No,Married,36,54,17779,Research Director,Research & Development,0
+No,Married,1,30,2476,Sales Representative,Sales,0
+Yes,Married,4,31,4559,Sales Executive,Sales,1
+Yes,Married,12,39,5238,Sales Executive,Sales,1
+No,Single,18,51,10650,Manufacturing Director,Research & Development,1
+No,Single,7,44,3162,Laboratory Technician,Research & Development,0
+Yes,Divorced,29,50,18740,Research Director,Research & Development,0
+No,Married,10,32,6220,Research Scientist,Research & Development,0
+No,Divorced,26,44,19190,Manager,Research & Development,0
+No,Married,31,53,15427,Manager,Sales,0
+No,Single,37,55,16835,Manager,Sales,0
+Yes,Single,6,38,5666,Sales Executive,Sales,0
+No,Married,2,34,2742,Human Resources,Human Resources,1
+No,Single,15,36,8858,Manufacturing Director,Research & Development,0
+Yes,Divorced,12,57,9439,Healthcare Representative,Research & Development,0
+No,Single,10,36,5810,Laboratory Technician,Research & Development,0
+No,Single,5,28,3485,Laboratory Technician,Research & Development,1
+No,Single,9,35,3681,Laboratory Technician,Research & Development,0
+Yes,Divorced,6,27,4647,Sales Executive,Sales,0
+Yes,Divorced,7,37,2073,Human Resources,Human Resources,1
+Yes,Married,3,50,2683,Sales Representative,Sales,1
+No,Married,22,45,16792,Manager,Research & Development,0
+No,Married,5,27,4342,Sales Executive,Sales,0
+No,Married,22,41,16595,Manager,Sales,0
+No,Single,12,30,2564,Laboratory Technician,Research & Development,0
+No,Divorced,1,32,2827,Sales Representative,Sales,0
+No,Single,36,55,18722,Research Director,Research & Development,0
+No,Married,10,32,4883,Laboratory Technician,Research & Development,1
+No,Divorced,33,54,10502,Manufacturing Director,Research & Development,0
+Yes,Single,6,44,2936,Research Scientist,Research & Development,1
+Yes,Married,6,32,6322,Research Scientist,Research & Development,0
+No,Single,3,33,2342,Sales Representative,Sales,0
+No,Divorced,6,27,2024,Research Scientist,Research & Development,0
+Yes,Single,6,33,2799,Research Scientist,Research & Development,0
+Yes,Married,10,47,11849,Manager,Research & Development,1
+Yes,Single,1,19,1859,Research Scientist,Research & Development,1
+No,Divorced,17,37,5163,Healthcare Representative,Research & Development,0
+Yes,Married,33,56,13402,Manufacturing Director,Research & Development,0
+Yes,Single,10,29,4193,Laboratory Technician,Research & Development,0
+No,Married,19,38,12061,Research Director,Research & Development,0
+No,Single,14,42,6781,Healthcare Representative,Research & Development,0
+No,Married,22,54,10739,Manufacturing Director,Research & Development,0
+No,Married,6,29,2703,Research Scientist,Research & Development,0
+No,Single,7,26,4294,Sales Executive,Sales,0
+Yes,Single,10,37,7642,Sales Executive,Sales,0
+No,Divorced,10,31,5915,Laboratory Technician,Research & Development,0
+No,Married,5,45,4286,Sales Executive,Sales,1
+No,Married,22,43,17159,Research Director,Research & Development,0
+No,Married,10,29,11935,Research Director,Research & Development,0
+No,Divorced,10,30,7264,Sales Executive,Sales,0
+No,Married,22,40,13503,Healthcare Representative,Research & Development,0
+No,Married,36,56,13212,Sales Executive,Sales,0
+No,Married,6,25,6232,Sales Executive,Sales,0
+No,Married,10,42,6272,Human Resources,Human Resources,0
+No,Single,9,32,8998,Sales Executive,Sales,0
+No,Married,10,32,5309,Laboratory Technician,Research & Development,0
+Yes,Married,12,55,5415,Laboratory Technician,Research & Development,0
+No,Married,3,27,4621,Laboratory Technician,Research & Development,0
+No,Married,8,38,2821,Research Scientist,Research & Development,0
+No,Married,10,37,2973,Sales Representative,Sales,0
+Yes,Married,5,26,4741,Healthcare Representative,Research & Development,0
+No,Married,25,45,19202,Manager,Research & Development,0
+Yes,Married,5,26,4157,Sales Executive,Sales,0
+Yes,Divorced,12,41,8189,Sales Executive,Sales,0
+No,Single,1,19,2552,Research Scientist,Research & Development,0
+No,Married,15,40,10855,Sales Executive,Sales,0
+No,Divorced,9,43,5257,Laboratory Technician,Research & Development,0
+No,Married,1,35,1281,Laboratory Technician,Research & Development,0
+No,Married,34,52,16856,Manager,Sales,0
+No,Married,16,49,6567,Manufacturing Director,Research & Development,0
+No,Single,7,37,3500,Laboratory Technician,Research & Development,0
+No,Married,8,43,2258,Laboratory Technician,Research & Development,0
+No,Divorced,3,23,2322,Sales Representative,Sales,0
+Yes,Divorced,21,55,14756,Manager,Research & Development,0
+No,Single,33,53,14275,Research Director,Research & Development,0
+No,Single,14,34,5343,Healthcare Representative,Research & Development,0
+No,Single,7,58,2479,Research Scientist,Research & Development,1
+No,Single,7,34,7756,Healthcare Representative,Research & Development,0
+No,Single,12,30,8474,Manufacturing Director,Research & Development,0
+No,Single,8,32,3038,Research Scientist,Research & Development,0
+No,Single,16,36,5914,Laboratory Technician,Research & Development,0
+No,Married,5,40,4327,Sales Executive,Sales,0
+No,Married,11,36,5674,Laboratory Technician,Research & Development,0
+No,Single,0,21,1232,Research Scientist,Research & Development,0
+Yes,Divorced,8,34,2579,Sales Representative,Sales,0
+No,Single,16,34,4809,Research Scientist,Research & Development,0
+No,Married,13,39,5204,Human Resources,Human Resources,0
+No,Married,12,45,3697,Research Scientist,Research & Development,0
+No,Single,6,31,3479,Laboratory Technician,Research & Development,1
+Yes,Single,19,38,6861,Sales Executive,Sales,0
+No,Divorced,9,31,13675,Research Director,Research & Development,0
+Yes,Married,3,26,2659,Laboratory Technician,Research & Development,0
+No,Married,10,30,4627,Laboratory Technician,Research & Development,0
+No,Divorced,10,34,8500,Healthcare Representative,Research & Development,0
+Yes,Married,4,35,3506,Research Scientist,Research & Development,0
+No,Divorced,1,27,2341,Laboratory Technician,Research & Development,0
+Yes,Married,6,31,4821,Research Scientist,Research & Development,0
+No,Married,8,39,3755,Laboratory Technician,Research & Development,0
+No,Married,10,29,2700,Research Scientist,Research & Development,0
+No,Married,10,29,7639,Sales Executive,Sales,1
+No,Married,10,44,2362,Laboratory Technician,Research & Development,1
+No,Married,5,26,2368,Research Scientist,Research & Development,0
+No,Married,14,48,4051,Sales Executive,Sales,0
+Yes,Single,19,38,4317,Research Scientist,Research & Development,0
+Yes,Married,1,23,1601,Laboratory Technician,Research & Development,1
+Yes,Married,22,50,13973,Manufacturing Director,Research & Development,0
+No,Single,12,37,7428,Sales Executive,Sales,0
+No,Single,8,31,2109,Human Resources,Human Resources,0
+No,Married,9,49,7654,Sales Executive,Sales,1
+No,Divorced,15,34,4444,Laboratory Technician,Research & Development,0
+Yes,Single,8,41,5993,Sales Executive,Sales,1
+No,Single,10,34,6142,Healthcare Representative,Research & Development,0
+No,Single,20,39,10938,Healthcare Representative,Research & Development,0
+Yes,Single,10,32,3919,Research Scientist,Research & Development,1
+Yes,Married,4,37,2326,Research Scientist,Research & Development,0
+Yes,Married,7,30,2132,Research Scientist,Research & Development,1
+Yes,Single,37,55,19045,Manager,Research & Development,0
+No,Single,4,37,4680,Research Scientist,Research & Development,0
+No,Married,15,35,4717,Sales Executive,Sales,0
+Yes,Married,21,46,10673,Healthcare Representative,Research & Development,0
+No,Divorced,7,36,2835,Laboratory Technician,Research & Development,0
+No,Married,6,24,3162,Laboratory Technician,Research & Development,0
+Yes,Married,29,50,19237,Research Director,Research & Development,0
+No,Married,5,32,2332,Laboratory Technician,Research & Development,0
+No,Single,6,34,4381,Research Scientist,Research & Development,0
+No,Single,8,26,3578,Laboratory Technician,Research & Development,0
+No,Married,10,33,5376,Sales Executive,Sales,0
+No,Married,3,38,2684,Research Scientist,Research & Development,0
+No,Single,8,37,3629,Laboratory Technician,Research & Development,0
+Yes,Married,10,35,7632,Healthcare Representative,Research & Development,0
+No,Single,9,32,2176,Laboratory Technician,Research & Development,0
+Yes,Single,17,38,5980,Manufacturing Director,Research & Development,0
+Yes,Married,21,39,17068,Manager,Research & Development,0
+No,Married,15,33,2781,Research Scientist,Research & Development,0
+No,Single,13,59,5171,Sales Executive,Sales,0
+Yes,Married,18,36,6201,Sales Executive,Sales,0
+Yes,Divorced,10,37,12185,Research Director,Research & Development,0
+No,Single,5,28,3310,Research Scientist,Research & Development,0
+Yes,Divorced,31,49,19502,Research Director,Research & Development,0
+Yes,Married,6,34,3622,Research Scientist,Research & Development,0
+Yes,Single,9,35,9582,Sales Executive,Sales,1
+No,Single,9,27,8726,Sales Executive,Sales,0
+No,Single,27,48,10999,Healthcare Representative,Research & Development,0
+No,Married,7,41,2238,Laboratory Technician,Research & Development,0
+No,Married,12,36,3692,Research Scientist,Research & Development,0
+No,Married,5,40,4876,Healthcare Representative,Research & Development,0
+No,Single,11,31,4424,Manufacturing Director,Research & Development,0
+Yes,Single,1,20,1009,Research Scientist,Research & Development,1
+Yes,Married,2,36,3388,Research Scientist,Research & Development,1
+No,Single,10,35,8789,Sales Executive,Sales,0
+No,Divorced,5,24,4377,Manufacturing Director,Research & Development,0
+No,Married,1,23,1223,Research Scientist,Research & Development,0
+No,Single,9,28,5661,Healthcare Representative,Research & Development,0
+No,Single,10,60,5405,Sales Executive,Sales,0
+Yes,Divorced,20,47,5067,Manufacturing Director,Research & Development,0
+No,Divorced,23,41,19141,Manager,Human Resources,0
+No,Single,6,24,3597,Laboratory Technician,Research & Development,0
+No,Divorced,8,29,2532,Laboratory Technician,Research & Development,0
+No,Divorced,17,37,10048,Manufacturing Director,Research & Development,1
+Yes,Married,17,55,6385,Healthcare Representative,Research & Development,0
+Yes,Married,10,30,5126,Laboratory Technician,Research & Development,0
+No,Married,6,26,6272,Sales Executive,Sales,0
+Yes,Married,7,29,2119,Laboratory Technician,Research & Development,1
+No,Married,6,25,4031,Laboratory Technician,Research & Development,1
+No,Divorced,18,37,3034,Laboratory Technician,Research & Development,0
+No,Married,6,36,2342,Human Resources,Human Resources,0
+No,Divorced,5,41,2107,Research Scientist,Research & Development,1
+Yes,Single,15,36,9278,Sales Executive,Sales,0
+No,Married,15,38,13582,Research Director,Research & Development,0
+No,Single,8,38,2619,Research Scientist,Research & Development,0
+No,Married,29,51,16307,Manager,Sales,0
+Yes,Divorced,13,37,5974,Research Scientist,Research & Development,0
+Yes,Single,1,20,2926,Laboratory Technician,Research & Development,1
+No,Divorced,8,45,2270,Laboratory Technician,Research & Development,0
+No,Married,1,24,2210,Laboratory Technician,Research & Development,1
+Yes,Divorced,18,52,5577,Research Scientist,Research & Development,0
+No,Single,26,49,10965,Healthcare Representative,Research & Development,0
+Yes,Single,0,19,1675,Sales Representative,Sales,1
+No,Divorced,5,24,4011,Manufacturing Director,Research & Development,0
+No,Married,3,22,2773,Research Scientist,Research & Development,0
+No,Divorced,24,42,18430,Manager,Research & Development,0
+Yes,Married,8,33,2909,Research Scientist,Research & Development,0
+No,Divorced,7,37,5993,Manufacturing Director,Research & Development,0
+Yes,Divorced,21,39,19197,Manager,Research & Development,0
+No,Married,17,36,4639,Sales Executive,Sales,0
+No,Single,20,50,10496,Healthcare Representative,Research & Development,0
+No,Married,14,33,11691,Research Director,Research & Development,0
+Yes,Divorced,10,43,5679,Laboratory Technician,Research & Development,0
+No,Married,11,30,5775,Research Scientist,Research & Development,0
+No,Single,10,36,3407,Sales Representative,Sales,1
+No,Married,4,27,4227,Manufacturing Director,Research & Development,0
+No,Married,23,42,17665,Manager,Research & Development,0
+No,Divorced,9,36,4834,Laboratory Technician,Research & Development,1
+Yes,Divorced,6,29,6623,Healthcare Representative,Research & Development,0
+No,Married,10,37,9434,Manufacturing Director,Research & Development,0
+No,Divorced,22,40,19436,Research Director,Research & Development,0
+Yes,Single,40,58,19246,Research Director,Research & Development,1
+No,Single,21,40,19626,Research Director,Research & Development,0
+No,Married,12,30,9419,Sales Executive,Sales,0
+No,Single,6,33,5324,Sales Executive,Sales,1
+No,Married,6,31,4345,Manufacturing Director,Research & Development,0
+Yes,Single,10,30,4695,Manufacturing Director,Research & Development,0
+Yes,Married,12,59,2670,Laboratory Technician,Research & Development,0
+No,Single,20,49,4284,Laboratory Technician,Research & Development,1
+No,Married,5,28,4724,Sales Executive,Sales,0
+No,Married,10,36,7094,Healthcare Representative,Research & Development,0
+Yes,Single,6,28,2028,Laboratory Technician,Research & Development,1
+No,Single,7,26,3102,Research Scientist,Research & Development,1
+No,Married,9,31,6932,Sales Executive,Sales,0
+No,Divorced,20,40,10932,Sales Executive,Sales,0
+No,Married,4,27,2811,Laboratory Technician,Research & Development,0
+Yes,Married,28,50,18172,Research Director,Research & Development,0
+Yes,Married,15,33,13610,Manager,Research & Development,1
+No,Married,28,46,10527,Healthcare Representative,Research & Development,0
+Yes,Single,5,33,2313,Research Scientist,Research & Development,1
+No,Single,16,37,13664,Research Director,Research & Development,0
+No,Divorced,8,26,4306,Sales Executive,Sales,0
+No,Divorced,32,50,19517,Manager,Sales,0
+Yes,Married,31,58,10008,Manufacturing Director,Research & Development,1
+No,Married,4,31,2218,Laboratory Technician,Research & Development,0
+No,Divorced,5,26,2007,Research Scientist,Research & Development,0
+Yes,Single,3,30,2285,Research Scientist,Research & Development,1
+No,Married,5,33,4373,Sales Executive,Sales,0
+Yes,Married,14,59,11904,Manager,Sales,0
+Yes,Married,21,45,13496,Healthcare Representative,Research & Development,0
+Yes,Divorced,24,58,10552,Healthcare Representative,Research & Development,0
+No,Married,5,28,2713,Research Scientist,Research & Development,0
+No,Married,10,30,6578,Sales Executive,Sales,0
+Yes,Single,14,46,5772,Sales Executive,Sales,0
+Yes,Single,3,31,2302,Sales Representative,Sales,1
+No,Single,1,31,1261,Research Scientist,Research & Development,1
+No,Married,2,22,2323,Research Scientist,Research & Development,0
+Yes,Divorced,1,22,2935,Laboratory Technician,Research & Development,0
+Yes,Married,6,36,3419,Research Scientist,Research & Development,0
+No,Single,9,43,2455,Laboratory Technician,Research & Development,0
+Yes,Divorced,10,35,2022,Research Scientist,Research & Development,1
+No,Married,22,60,10266,Sales Executive,Sales,0
+Yes,Single,4,34,4538,Sales Executive,Sales,0
+Yes,Married,8,39,2404,Laboratory Technician,Research & Development,1
+Yes,Divorced,9,38,8740,Sales Executive,Sales,0
+No,Divorced,8,33,3408,Laboratory Technician,Research & Development,1
+Yes,Single,5,25,4487,Sales Executive,Sales,0
+No,Married,20,49,6651,Healthcare Representative,Research & Development,0
+No,Single,6,45,2177,Human Resources,Human Resources,0
+No,Divorced,25,43,14336,Research Director,Research & Development,0
+No,Divorced,16,34,17007,Research Director,Research & Development,0
+Yes,Married,1,34,2220,Sales Representative,Sales,0
+No,Single,2,23,3505,Research Scientist,Research & Development,0
+Yes,Divorced,6,37,2782,Research Scientist,Research & Development,0
+No,Married,3,35,2572,Sales Representative,Sales,0
+Yes,Married,16,36,10325,Sales Executive,Sales,1
+No,Divorced,4,23,2904,Research Scientist,Research & Development,0
+No,Single,6,25,6180,Sales Executive,Sales,0
+No,Divorced,7,43,2089,Research Scientist,Research & Development,0
+Yes,Divorced,10,41,2778,Laboratory Technician,Research & Development,1
+No,Single,5,25,4950,Sales Executive,Sales,0
+No,Married,31,52,16555,Manager,Research & Development,0
+No,Married,16,36,9699,Sales Executive,Sales,0
+No,Married,8,26,5472,Manufacturing Director,Research & Development,0
+No,Married,18,56,2942,Research Scientist,Research & Development,0
+Yes,Divorced,5,34,3815,Research Scientist,Research & Development,0
+No,Married,3,38,2899,Sales Representative,Sales,0
+No,Married,16,36,3210,Laboratory Technician,Research & Development,0
+No,Married,6,26,3955,Laboratory Technician,Research & Development,0
+No,Married,11,29,7336,Sales Executive,Sales,1
+Yes,Married,6,27,3058,Research Scientist,Research & Development,0
+No,Single,1,31,1359,Sales Representative,Sales,1
+No,Married,7,43,6804,Sales Executive,Sales,0
+No,Single,10,36,7587,Sales Executive,Sales,0
+No,Married,7,40,2387,Laboratory Technician,Research & Development,0
+No,Married,3,22,2523,Laboratory Technician,Research & Development,0
+No,Married,8,26,4420,Laboratory Technician,Research & Development,0
+Yes,Single,11,31,7143,Manufacturing Director,Research & Development,0
+Yes,Single,10,52,8446,Sales Executive,Sales,1
+No,Married,5,28,2070,Research Scientist,Research & Development,0
+Yes,Married,8,37,2996,Research Scientist,Research & Development,0
+No,Single,16,42,4272,Laboratory Technician,Research & Development,0
+No,Single,6,44,2290,Research Scientist,Research & Development,0
+No,Married,1,28,1052,Sales Representative,Sales,0
+Yes,Married,6,31,6833,Healthcare Representative,Research & Development,0
+No,Single,1,19,1102,Laboratory Technician,Research & Development,1
+Yes,Single,7,37,2090,Laboratory Technician,Research & Development,1
+No,Single,1,45,2274,Research Scientist,Research & Development,0
+No,Married,8,50,2380,Laboratory Technician,Research & Development,0
+No,Single,23,51,7484,Healthcare Representative,Research & Development,0
+Yes,Married,18,42,2372,Research Scientist,Research & Development,0
+No,Single,12,32,5010,Sales Executive,Sales,0
+No,Divorced,9,32,4668,Sales Executive,Sales,0
+No,Single,1,32,2956,Research Scientist,Research & Development,0
+Yes,Divorced,10,33,8380,Sales Executive,Sales,0
+Yes,Single,9,47,4163,Sales Executive,Sales,0
+Yes,Single,1,20,2600,Research Scientist,Research & Development,1
+No,Married,6,29,2546,Research Scientist,Research & Development,1
+No,Divorced,5,35,4968,Sales Executive,Sales,0
+No,Single,6,29,2201,Research Scientist,Research & Development,0
+No,Single,4,24,4577,Sales Executive,Sales,1
+No,Married,6,32,3931,Sales Representative,Sales,0
+No,Married,10,28,6674,Laboratory Technician,Research & Development,0
+No,Divorced,10,35,11996,Manager,Research & Development,0
+No,Divorced,7,34,5121,Manufacturing Director,Research & Development,0
+Yes,Divorced,13,36,8847,Manufacturing Director,Research & Development,0
+No,Married,34,52,19999,Manager,Research & Development,0
+No,Single,10,35,4425,Laboratory Technician,Research & Development,0
+Yes,Married,9,44,6465,Healthcare Representative,Research & Development,0
+Yes,Married,4,22,4171,Manufacturing Director,Research & Development,1
+Yes,Single,5,40,2342,Research Scientist,Research & Development,0
+Yes,Single,6,33,8224,Sales Executive,Sales,1
+No,Married,32,50,18200,Manager,Human Resources,0
+No,Married,32,50,17856,Manager,Research & Development,0
+No,Married,15,57,6755,Healthcare Representative,Research & Development,0
+Yes,Married,5,35,4614,Sales Executive,Sales,1
+Yes,Married,9,30,11916,Manager,Research & Development,0
+No,Divorced,13,31,5460,Sales Executive,Sales,0
+Yes,Single,33,52,19068,Manager,Sales,0
+No,Single,6,33,6949,Healthcare Representative,Research & Development,0
+No,Married,8,33,6146,Sales Executive,Sales,0
+No,Married,10,34,5429,Laboratory Technician,Research & Development,0
+No,Married,10,51,2075,Laboratory Technician,Research & Development,0
+No,Divorced,28,50,19144,Research Director,Research & Development,0
+No,Married,26,46,18789,Manager,Sales,0
+No,Married,4,22,2451,Laboratory Technician,Research & Development,0
+No,Married,11,29,7918,Sales Executive,Sales,0
+Yes,Divorced,4,22,2328,Research Scientist,Research & Development,0
+No,Married,28,46,17048,Manager,Sales,0
+No,Single,10,29,7988,Human Resources,Human Resources,0
+No,Single,10,38,2406,Laboratory Technician,Research & Development,0
+No,Divorced,13,41,2451,Research Scientist,Research & Development,0
+No,Divorced,11,40,3975,Laboratory Technician,Research & Development,0
+Yes,Divorced,10,31,9852,Sales Executive,Sales,0
+No,Single,16,50,9208,Sales Executive,Sales,0
+Yes,Divorced,33,51,14026,Manager,Human Resources,0
+No,Married,10,31,8943,Manufacturing Director,Research & Development,0
+No,Divorced,20,45,2348,Laboratory Technician,Research & Development,0
+No,Married,5,52,4258,Research Scientist,Research & Development,0
+No,Married,40,58,10312,Healthcare Representative,Research & Development,1
+Yes,Single,8,30,2657,Research Scientist,Research & Development,1
+No,Married,10,29,6644,Sales Executive,Sales,0
+No,Married,24,44,10248,Healthcare Representative,Research & Development,0
+No,Single,6,36,6499,Manufacturing Director,Research & Development,0
+Yes,Single,3,31,2657,Research Scientist,Research & Development,0
+Yes,Single,2,21,2070,Research Scientist,Research & Development,0
+No,Married,10,36,9738,Sales Executive,Sales,0
+No,Married,5,25,4898,Manufacturing Director,Research & Development,0
+No,Married,7,46,5258,Manufacturing Director,Research & Development,0
+No,Single,4,29,3983,Laboratory Technician,Research & Development,0
+Yes,Divorced,19,44,3161,Laboratory Technician,Research & Development,1
+No,Married,8,26,5296,Sales Executive,Sales,0
+No,Single,31,55,16756,Manager,Research & Development,0
+No,Divorced,1,35,1951,Laboratory Technician,Research & Development,0
+Yes,Single,9,29,7553,Healthcare Representative,Research & Development,1
+No,Married,8,32,6725,Manufacturing Director,Research & Development,0
+Yes,Single,4,41,3140,Sales Representative,Sales,1
+No,Single,5,28,4382,Research Scientist,Research & Development,1
+Yes,Single,9,35,4249,Research Scientist,Research & Development,0
+Yes,Single,5,28,2154,Laboratory Technician,Research & Development,0
+No,Married,9,45,6434,Manufacturing Director,Research & Development,0
+No,Married,10,42,4434,Manufacturing Director,Research & Development,0
+No,Married,4,29,4649,Sales Executive,Sales,0
+Yes,Single,8,26,2875,Research Scientist,Research & Development,0
+No,Single,28,59,7637,Sales Executive,Sales,0
+No,Divorced,5,31,2911,Research Scientist,Research & Development,0
+Yes,Married,28,52,7969,Manufacturing Director,Research & Development,0
+No,Married,20,38,8823,Healthcare Representative,Research & Development,0
+No,Single,6,30,2720,Laboratory Technician,Research & Development,0
+No,Divorced,21,39,12169,Healthcare Representative,Research & Development,1
+No,Married,6,34,2979,Research Scientist,Research & Development,0
+No,Divorced,17,41,3072,Research Scientist,Research & Development,0
+Yes,Single,1,26,2340,Laboratory Technician,Research & Development,1
+Yes,Single,8,42,2515,Research Scientist,Research & Development,0
+No,Married,22,41,19189,Manager,Human Resources,0
+No,Married,4,30,5301,Sales Executive,Sales,0
+No,Divorced,12,30,3072,Laboratory Technician,Research & Development,0
+Yes,Single,1,19,2121,Sales Representative,Sales,1
+No,Single,1,27,2318,Research Scientist,Research & Development,0
+No,Divorced,17,38,10609,Sales Executive,Sales,0
+No,Divorced,12,36,5079,Sales Executive,Sales,0
+No,Single,10,32,4200,Laboratory Technician,Research & Development,1
+No,Married,17,39,5902,Sales Executive,Sales,0
+Yes,Single,10,33,3348,Research Scientist,Research & Development,1
+No,Divorced,19,46,4810,Manufacturing Director,Research & Development,0
+Yes,Married,15,46,9071,Sales Executive,Sales,0
+Yes,Single,20,41,4721,Laboratory Technician,Research & Development,0
+No,Married,12,39,6389,Human Resources,Human Resources,0
+Yes,Single,9,34,5304,Sales Executive,Sales,1
+No,Single,13,34,11994,Research Director,Research & Development,0
+Yes,Divorced,7,29,8268,Sales Executive,Sales,0
+Yes,Married,8,37,3564,Research Scientist,Research & Development,0
+No,Married,1,35,2269,Laboratory Technician,Research & Development,0
+No,Divorced,17,46,9396,Healthcare Representative,Research & Development,0
+Yes,Single,8,47,6397,Sales Executive,Sales,1
+No,Divorced,10,30,3761,Research Scientist,Research & Development,0
+No,Divorced,11,29,2514,Research Scientist,Research & Development,0
+Yes,Married,20,50,3221,Laboratory Technician,Research & Development,0
+No,Married,6,34,5714,Sales Executive,Sales,0
+Yes,Married,10,31,6179,Manufacturing Director,Research & Development,1
+No,Single,19,48,4240,Healthcare Representative,Research & Development,0
+Yes,Divorced,8,43,4522,Healthcare Representative,Research & Development,0
+No,Single,10,34,5337,Sales Executive,Sales,0
+Yes,Divorced,12,60,5220,Sales Executive,Sales,0
+No,Married,12,52,2950,Laboratory Technician,Research & Development,0
+No,Married,2,25,2889,Research Scientist,Research & Development,0
+No,Single,22,46,18947,Manager,Sales,0
+No,Divorced,3,29,3760,Research Scientist,Research & Development,0
+No,Single,8,41,9355,Sales Executive,Sales,1
+No,Married,8,45,2654,Research Scientist,Research & Development,0
+No,Divorced,8,30,4779,Sales Executive,Sales,0
+No,Married,10,33,4539,Sales Executive,Sales,0
+No,Married,5,33,3600,Human Resources,Human Resources,0
+No,Single,12,42,3673,Laboratory Technician,Research & Development,0
+No,Single,23,43,10231,Sales Executive,Sales,0
+No,Married,21,39,12742,Manufacturing Director,Research & Development,0
+No,Divorced,7,39,2232,Laboratory Technician,Research & Development,0
+Yes,Married,16,35,10377,Sales Executive,Sales,0
+Yes,Divorced,5,26,2373,Laboratory Technician,Research & Development,1
+No,Married,18,51,4936,Sales Executive,Sales,0
+No,Divorced,15,40,6377,Healthcare Representative,Research & Development,0
+No,Married,10,32,6209,Sales Executive,Sales,0
+No,Divorced,6,28,2377,Research Scientist,Research & Development,0
+No,Married,21,40,18041,Manager,Sales,0
+No,Divorced,24,45,5210,Laboratory Technician,Research & Development,0
+Yes,Married,26,44,19513,Manager,Research & Development,0
+Yes,Married,25,50,16880,Research Director,Research & Development,0
+Yes,Married,9,45,3633,Laboratory Technician,Research & Development,0
+No,Married,9,35,9069,Sales Executive,Sales,0
+No,Single,11,48,7898,Manufacturing Director,Research & Development,0
+No,Divorced,9,40,3319,Research Scientist,Research & Development,0
+Yes,Divorced,4,42,2696,Human Resources,Human Resources,0
+No,Single,3,21,3230,Research Scientist,Research & Development,0
+Yes,Married,6,38,3057,Research Scientist,Research & Development,0
+Yes,Married,4,35,4014,Laboratory Technician,Research & Development,0
+Yes,Married,5,28,3464,Research Scientist,Research & Development,1
+No,Divorced,22,53,14852,Manager,Sales,0
+No,Single,10,35,9362,Manufacturing Director,Research & Development,0
+No,Single,13,36,2088,Laboratory Technician,Research & Development,0
+No,Divorced,17,36,10096,Healthcare Representative,Research & Development,0
+Yes,Single,30,59,13726,Manufacturing Director,Research & Development,0
+No,Married,22,49,13120,Sales Executive,Sales,0
+No,Married,5,36,3038,Laboratory Technician,Research & Development,0
+No,Married,32,53,14814,Research Director,Research & Development,0
+No,Married,28,53,11836,Sales Executive,Sales,0
+No,Single,10,31,7446,Manufacturing Director,Research & Development,1
+No,Divorced,10,29,9980,Manufacturing Director,Research & Development,0
+Yes,Married,6,26,2042,Research Scientist,Research & Development,1
+No,Single,2,20,2044,Sales Representative,Sales,1
+Yes,Single,10,31,6582,Sales Executive,Sales,0
+Yes,Divorced,7,33,2277,Human Resources,Human Resources,0
+No,Married,7,25,3229,Laboratory Technician,Research & Development,0
+No,Single,9,34,8621,Healthcare Representative,Research & Development,0
+Yes,Single,15,33,13458,Research Director,Research & Development,0
+Yes,Married,10,45,9380,Manufacturing Director,Research & Development,0
+Yes,Married,16,40,4422,Research Scientist,Research & Development,0
+No,Married,2,22,2244,Research Scientist,Research & Development,0
+Yes,Married,17,38,6673,Healthcare Representative,Research & Development,1
+Yes,Divorced,21,43,16627,Research Director,Research & Development,0
+No,Married,15,48,12504,Manager,Sales,0
+No,Single,0,18,1051,Research Scientist,Research & Development,0
+No,Single,17,35,8095,Manufacturing Director,Research & Development,0
+Yes,Married,2,28,3867,Laboratory Technician,Research & Development,0
+No,Married,21,48,15402,Manager,Research & Development,0
+No,Married,21,40,19033,Manager,Research & Development,0
+Yes,Married,5,25,4194,Sales Executive,Sales,0
+Yes,Divorced,10,29,3339,Laboratory Technician,Research & Development,1
+No,Married,23,55,10976,Manufacturing Director,Research & Development,0
+No,Divorced,13,31,10648,Manufacturing Director,Research & Development,0
+No,Divorced,7,36,4941,Manufacturing Director,Research & Development,0
+No,Divorced,11,38,6893,Sales Executive,Sales,0
+Yes,Divorced,19,56,4257,Research Scientist,Research & Development,0
+No,Single,20,59,5473,Sales Executive,Sales,0
+Yes,Single,4,27,2478,Research Scientist,Research & Development,0
+No,Divorced,12,35,7823,Sales Executive,Sales,0
+No,Divorced,1,34,2008,Laboratory Technician,Research & Development,0
+Yes,Single,10,42,6545,Research Scientist,Research & Development,0
+No,Divorced,12,34,4505,Research Scientist,Research & Development,0
+No,Married,10,41,8392,Sales Executive,Sales,0
+Yes,Divorced,8,26,2741,Human Resources,Human Resources,1
+No,Married,2,31,2610,Laboratory Technician,Research & Development,1
+No,Single,1,19,2564,Human Resources,Human Resources,1
+No,Married,9,32,5175,Research Scientist,Research & Development,0
+No,Married,19,50,6347,Sales Executive,Sales,0
+No,Single,18,36,7779,Manufacturing Director,Research & Development,0
+No,Married,26,44,18213,Manager,Sales,0
+No,Married,4,25,4851,Sales Executive,Sales,0
+No,Single,5,33,3452,Research Scientist,Research & Development,0
+Yes,Married,9,27,2235,Research Scientist,Research & Development,0
+Yes,Married,10,29,5056,Manufacturing Director,Research & Development,0
+No,Married,5,50,3690,Laboratory Technician,Research & Development,0
+No,Single,2,25,2096,Research Scientist,Research & Development,0
+No,Single,6,35,4323,Human Resources,Human Resources,0
+Yes,Single,1,33,2851,Sales Representative,Sales,1
+No,Divorced,32,57,14118,Manager,Sales,0
+No,Married,19,39,2086,Sales Representative,Sales,1
+Yes,Single,2,20,2323,Sales Representative,Sales,1
+Yes,Divorced,12,58,5660,Healthcare Representative,Research & Development,0
+No,Divorced,13,51,5482,Manufacturing Director,Research & Development,0
+No,Divorced,10,33,16184,Research Director,Research & Development,0
+No,Single,10,38,7351,Sales Executive,Sales,0
+Yes,Divorced,15,37,13603,Research Director,Research & Development,0
+No,Married,8,37,3022,Research Scientist,Research & Development,0
+No,Married,13,33,2707,Laboratory Technician,Research & Development,1
+No,Single,9,39,4534,Manufacturing Director,Research & Development,0
+No,Single,4,22,3894,Laboratory Technician,Research & Development,1
+No,Married,9,52,3149,Laboratory Technician,Research & Development,0
+No,Married,14,40,10322,Healthcare Representative,Research & Development,0
+No,Married,5,35,4601,Sales Executive,Sales,0
+Yes,Single,3,47,3294,Sales Representative,Sales,0
+Yes,Single,23,54,17328,Manager,Human Resources,0
+Yes,Single,1,32,2795,Laboratory Technician,Research & Development,1
+No,Married,10,29,4319,Manufacturing Director,Research & Development,0
+No,Single,5,28,2080,Research Scientist,Research & Development,0
+No,Single,16,36,2519,Laboratory Technician,Research & Development,0
+No,Married,14,34,4490,Human Resources,Human Resources,0
+No,Married,21,39,19272,Manager,Research & Development,0
+Yes,Married,7,56,4963,Research Scientist,Research & Development,1
+No,Married,10,44,2011,Research Scientist,Research & Development,0
+No,Married,29,49,7403,Laboratory Technician,Research & Development,0
+Yes,Divorced,7,42,2759,Research Scientist,Research & Development,1
+No,Divorced,8,30,4115,Sales Executive,Sales,0
+No,Divorced,16,40,13757,Research Director,Research & Development,0
+No,Single,9,44,3708,Laboratory Technician,Research & Development,0
+No,Married,31,52,13826,Manufacturing Director,Research & Development,0
+No,Single,29,54,17328,Research Director,Research & Development,0
+Yes,Married,7,25,3691,Laboratory Technician,Research & Development,1
+No,Divorced,16,35,5093,Healthcare Representative,Research & Development,0
+No,Married,11,29,4335,Healthcare Representative,Research & Development,0
+No,Single,1,22,2871,Laboratory Technician,Research & Development,0
+No,Married,18,38,9824,Healthcare Representative,Research & Development,0
+No,Divorced,9,33,4037,Sales Executive,Sales,0
+Yes,Single,1,25,1118,Sales Representative,Sales,1
+No,Married,13,31,4306,Manufacturing Director,Research & Development,0
+No,Married,6,29,5561,Sales Executive,Sales,0
+No,Married,3,29,2157,Sales Representative,Sales,0
+No,Single,20,54,4869,Research Scientist,Research & Development,0
+Yes,Divorced,9,54,5485,Manufacturing Director,Research & Development,0
+Yes,Single,4,31,2321,Research Scientist,Research & Development,1
+No,Married,17,47,3420,Research Scientist,Research & Development,0
+No,Married,17,36,5237,Healthcare Representative,Research & Development,0
+Yes,Married,7,41,2127,Research Scientist,Research & Development,0
+No,Single,7,29,5765,Sales Executive,Sales,1
+Yes,Single,0,18,1878,Sales Representative,Sales,1
+No,Single,10,32,5055,Research Scientist,Research & Development,0
+No,Married,22,42,19232,Manager,Research & Development,0
+No,Single,38,58,13872,Sales Executive,Sales,0
+No,Divorced,8,37,6347,Manufacturing Director,Research & Development,0
+Yes,Single,21,39,10880,Manufacturing Director,Research & Development,0
+No,Divorced,13,31,7547,Sales Executive,Sales,0
+Yes,Divorced,9,45,5006,Sales Executive,Sales,0
+No,Married,8,26,2942,Human Resources,Human Resources,0
+Yes,Single,2,28,3441,Laboratory Technician,Research & Development,1
+No,Single,5,35,4859,Sales Executive,Sales,0
+No,Married,9,30,2097,Laboratory Technician,Research & Development,0
+No,Single,5,34,4033,Manufacturing Director,Research & Development,0
+No,Divorced,18,43,10798,Sales Executive,Sales,0
+No,Single,10,35,6540,Healthcare Representative,Research & Development,0
+Yes,Married,15,35,8966,Sales Executive,Sales,0
+No,Single,19,54,3780,Laboratory Technician,Research & Development,0
+No,Single,2,20,2678,Sales Representative,Sales,0
+Yes,Single,10,33,2686,Research Scientist,Research & Development,1
+No,Divorced,21,41,19419,Research Director,Research & Development,0
+No,Single,36,56,19717,Manager,Human Resources,0
+Yes,Single,5,27,4478,Sales Executive,Sales,0
+No,Single,20,44,4541,Research Scientist,Research & Development,0
+No,Married,2,34,2585,Research Scientist,Research & Development,0
+No,Married,4,34,3737,Human Resources,Human Resources,0
+No,Married,6,34,6538,Sales Executive,Sales,0
+No,Single,0,18,1611,Laboratory Technician,Research & Development,0
+No,Married,2,33,2911,Research Scientist,Research & Development,0
+No,Single,18,36,2743,Laboratory Technician,Research & Development,1
+No,Single,10,34,3280,Research Scientist,Research & Development,0
+Yes,Single,30,55,16659,Manager,Research & Development,0
+No,Married,7,25,3669,Laboratory Technician,Research & Development,0
+No,Married,10,30,8412,Sales Executive,Sales,0
+No,Divorced,10,28,4558,Laboratory Technician,Research & Development,0
+No,Married,21,42,18303,Manager,Sales,0
+Yes,Single,23,48,5381,Laboratory Technician,Research & Development,1
+Yes,Married,6,41,4766,Laboratory Technician,Research & Development,0
+No,Single,4,28,4908,Sales Executive,Sales,0
+No,Divorced,3,35,3917,Laboratory Technician,Research & Development,0
+No,Single,17,37,2115,Research Scientist,Research & Development,0
+No,Married,20,40,3448,Laboratory Technician,Research & Development,0
+No,Divorced,21,41,19973,Research Director,Research & Development,0
+Yes,Divorced,5,24,4260,Sales Executive,Sales,0
+No,Single,12,30,4011,Laboratory Technician,Research & Development,0
+No,Married,10,36,7596,Sales Executive,Sales,0
+No,Divorced,26,53,18606,Manager,Research & Development,0
+No,Single,5,26,3904,Research Scientist,Research & Development,0
+No,Married,6,27,3468,Laboratory Technician,Research & Development,0
+Yes,Married,35,53,10934,Sales Executive,Sales,0
+No,Single,18,52,10445,Healthcare Representative,Research & Development,0
+No,Divorced,10,29,6931,Sales Executive,Sales,0
+No,Divorced,8,42,2576,Laboratory Technician,Research & Development,0
+No,Single,4,30,2983,Sales Representative,Sales,0
+No,Married,12,35,8020,Sales Executive,Sales,0
+Yes,Married,8,35,5916,Manufacturing Director,Research & Development,1
+Yes,Divorced,7,49,6804,Manufacturing Director,Research & Development,0
+No,Single,6,26,5326,Sales Executive,Sales,1
+No,Single,8,32,3068,Laboratory Technician,Research & Development,0
+No,Divorced,10,30,2613,Research Scientist,Research & Development,0
+Yes,Married,21,53,17584,Research Director,Research & Development,0
+No,Married,10,31,5582,Healthcare Representative,Research & Development,0
+No,Married,6,27,4298,Manufacturing Director,Research & Development,0
+No,Single,9,46,9619,Sales Executive,Sales,1
+No,Married,26,46,17861,Research Director,Research & Development,0
+No,Single,0,18,1420,Laboratory Technician,Research & Development,1
+Yes,Married,8,26,2366,Research Scientist,Research & Development,1
+No,Married,6,25,4400,Sales Representative,Sales,1
+No,Divorced,15,48,5486,Sales Executive,Sales,0
+Yes,Married,10,44,2818,Laboratory Technician,Research & Development,0
+No,Single,9,31,16422,Research Director,Research & Development,0
+No,Married,8,33,9998,Sales Executive,Sales,0
+Yes,Married,4,30,4736,Sales Executive,Sales,0
+No,Married,8,37,6447,Manufacturing Director,Research & Development,0
+No,Single,6,29,2340,Research Scientist,Research & Development,0
+Yes,Married,6,24,2886,Laboratory Technician,Research & Development,1
+Yes,Single,11,51,5441,Sales Executive,Sales,0
+Yes,Married,7,45,4477,Research Scientist,Research & Development,0
+No,Married,10,44,7978,Healthcare Representative,Research & Development,1
+No,Married,8,40,4244,Healthcare Representative,Research & Development,0
+No,Married,10,34,2691,Research Scientist,Research & Development,0
+No,Married,5,56,2066,Research Scientist,Research & Development,0
+No,Single,7,33,2496,Laboratory Technician,Research & Development,0
+Yes,Divorced,34,55,13577,Healthcare Representative,Research & Development,0
+No,Married,23,46,17465,Manager,Sales,0
+Yes,Married,6,27,6349,Sales Executive,Sales,0
+No,Single,22,45,18061,Manager,Research & Development,0
+No,Divorced,31,55,14732,Research Director,Research & Development,0
+No,Married,5,27,2534,Sales Representative,Sales,0
+Yes,Married,8,28,4779,Sales Executive,Sales,0
+No,Single,10,42,6244,Sales Executive,Sales,0
+No,Single,7,29,2058,Research Scientist,Research & Development,1
+Yes,Married,6,29,2168,Research Scientist,Research & Development,0
+No,Single,20,47,4960,Sales Executive,Sales,0
+No,Married,2,32,2743,Laboratory Technician,Research & Development,0
+Yes,Single,6,24,3202,Sales Representative,Sales,1
+No,Single,14,34,6687,Healthcare Representative,Research & Development,0
+No,Single,12,37,7491,Manufacturing Director,Research & Development,0
+No,Married,4,32,4465,Sales Executive,Sales,0
+No,Married,8,27,6214,Sales Executive,Sales,0
+Yes,Divorced,10,42,2593,Laboratory Technician,Research & Development,0
+No,Single,8,38,4028,Sales Executive,Sales,0
+Yes,Single,25,49,13964,Healthcare Representative,Research & Development,0
+No,Divorced,16,34,9725,Sales Executive,Sales,0
+Yes,Married,20,40,10475,Sales Executive,Sales,0
+Yes,Married,1,38,1702,Laboratory Technician,Research & Development,0
+No,Married,0,27,1706,Research Scientist,Research & Development,0
+No,Married,13,38,5249,Sales Executive,Sales,0
+No,Married,21,47,18300,Research Director,Research & Development,0
+No,Married,9,38,6261,Manufacturing Director,Research & Development,0
+No,Single,5,30,2632,Research Scientist,Research & Development,0
+Yes,Divorced,3,28,2703,Research Scientist,Research & Development,0
+No,Divorced,6,27,2187,Research Scientist,Research & Development,0
+No,Single,10,46,3423,Human Resources,Human Resources,0
+Yes,Single,22,40,13194,Sales Executive,Sales,1
+No,Married,23,55,19187,Manager,Research & Development,0
+No,Divorced,3,26,2886,Research Scientist,Research & Development,0
+No,Married,2,35,2376,Laboratory Technician,Research & Development,0
+No,Married,10,42,4089,Healthcare Representative,Research & Development,0
+No,Divorced,7,40,6852,Sales Executive,Sales,0
+No,Single,1,19,1483,Laboratory Technician,Research & Development,0
+Yes,Single,11,39,3646,Laboratory Technician,Research & Development,1
+No,Divorced,29,49,10466,Healthcare Representative,Research & Development,0
+No,Single,1,20,2836,Research Scientist,Research & Development,0
+No,Married,13,32,5484,Sales Executive,Sales,0
+No,Single,10,36,9980,Sales Executive,Sales,0
+Yes,Married,25,43,16959,Manager,Sales,0
+No,Divorced,5,26,4364,Laboratory Technician,Research & Development,0
+No,Divorced,5,27,3041,Sales Representative,Sales,1
+No,Married,8,42,2093,Laboratory Technician,Research & Development,0
+No,Single,15,34,4759,Sales Executive,Sales,0
+Yes,Single,24,55,13695,Sales Executive,Sales,1
+Yes,Married,17,42,5231,Laboratory Technician,Research & Development,0
+No,Married,4,33,4302,Sales Executive,Sales,0
+No,Divorced,1,30,2693,Laboratory Technician,Research & Development,0
+No,Married,10,35,2258,Laboratory Technician,Research & Development,0
+No,Single,9,42,5155,Sales Executive,Sales,0
+Yes,Divorced,3,40,3617,Research Scientist,Research & Development,0
+No,Single,6,34,6274,Sales Executive,Sales,0
+No,Married,28,50,17046,Manager,Research & Development,0
+No,Single,9,45,3452,Research Scientist,Research & Development,0
+No,Single,1,21,2716,Sales Representative,Sales,1
+No,Married,17,37,3920,Research Scientist,Research & Development,0
+No,Single,9,33,4682,Sales Executive,Sales,0
+Yes,Married,26,47,16752,Manager,Research & Development,0
+No,Married,1,30,2033,Sales Representative,Sales,1
+No,Married,9,27,7412,Manufacturing Director,Research & Development,0
+No,Divorced,31,50,17924,Manager,Research & Development,0
+Yes,Married,1,29,2319,Laboratory Technician,Research & Development,1
+No,Married,11,36,5647,Sales Executive,Sales,0
+No,Divorced,25,45,9724,Research Scientist,Research & Development,0
+Yes,Married,18,50,6796,Sales Executive,Sales,1
+Yes,Married,6,33,5488,Healthcare Representative,Research & Development,0
+No,Divorced,12,46,7379,Manufacturing Director,Research & Development,0
+No,Married,16,54,10725,Human Resources,Human Resources,0
+Yes,Married,8,47,4537,Sales Executive,Sales,0
+No,Divorced,6,33,7104,Sales Executive,Sales,0
+Yes,Married,17,35,10685,Manufacturing Director,Research & Development,0
+No,Single,9,39,6782,Laboratory Technician,Research & Development,0
+No,Divorced,10,38,5745,Healthcare Representative,Research & Development,0
+No,Married,13,54,10686,Sales Executive,Sales,0
+Yes,Single,18,37,4197,Manufacturing Director,Research & Development,0
+No,Single,2,20,3033,Laboratory Technician,Research & Development,0
+No,Single,10,40,5094,Laboratory Technician,Research & Development,0
+Yes,Divorced,31,51,19847,Manager,Sales,0
+Yes,Single,9,34,6074,Laboratory Technician,Research & Development,1
+No,Married,7,34,3294,Laboratory Technician,Research & Development,0
+Yes,Married,10,42,7406,Manufacturing Director,Research & Development,0
+No,Divorced,1,30,1274,Research Scientist,Research & Development,0
+No,Single,21,50,19926,Manager,Research & Development,0
+No,Single,1,31,2501,Research Scientist,Research & Development,0
+Yes,Divorced,12,41,5467,Research Scientist,Research & Development,0
+No,Divorced,21,41,17181,Manager,Research & Development,0
+No,Married,26,52,17099,Manager,Research & Development,0
+No,Single,9,40,4661,Research Scientist,Research & Development,0
+Yes,Single,22,49,18665,Research Director,Research & Development,0
+Yes,Married,6,27,5769,Sales Executive,Sales,0
+Yes,Single,6,38,3944,Research Scientist,Research & Development,0
+No,Married,14,51,10596,Sales Executive,Sales,0
+No,Divorced,8,40,2345,Research Scientist,Research & Development,0
+No,Married,10,29,3131,Laboratory Technician,Research & Development,0
+No,Divorced,11,40,9705,Sales Executive,Sales,0
+No,Single,11,30,6091,Manufacturing Director,Research & Development,0
+No,Divorced,8,29,4262,Manufacturing Director,Research & Development,0
+No,Married,10,35,7295,Sales Executive,Sales,0
+No,Married,26,45,17650,Manager,Sales,0
+No,Married,18,43,10820,Manufacturing Director,Research & Development,0
+No,Married,26,47,17169,Research Director,Research & Development,0
+No,Single,29,51,13142,Manufacturing Director,Research & Development,0
+No,Divorced,13,46,10845,Manufacturing Director,Research & Development,0
+No,Married,24,44,10482,Human Resources,Human Resources,1
+No,Divorced,9,29,16124,Research Director,Research & Development,0
+No,Divorced,24,46,10453,Sales Executive,Sales,0
+Yes,Divorced,5,29,2800,Sales Representative,Sales,1
+No,Divorced,8,40,5715,Sales Executive,Sales,0
+No,Single,9,30,6696,Sales Executive,Sales,1
+Yes,Married,8,42,6062,Manufacturing Director,Research & Development,0
+Yes,Single,10,41,6811,Healthcare Representative,Research & Development,0
+Yes,Married,21,42,17861,Manager,Research & Development,0
+No,Married,7,25,2096,Sales Representative,Sales,0
+No,Divorced,9,31,4233,Sales Executive,Sales,1
+Yes,Single,8,41,6032,Manufacturing Director,Research & Development,0
+Yes,Single,18,36,5410,Manufacturing Director,Research & Development,0
+No,Divorced,13,38,6288,Healthcare Representative,Research & Development,0
+No,Single,7,35,2506,Research Scientist,Research & Development,0
+No,Married,15,45,5593,Sales Executive,Sales,0
+Yes,Divorced,28,47,13770,Sales Executive,Sales,0
+No,Divorced,28,56,19943,Manager,Research & Development,0
+No,Married,30,59,18844,Manager,Human Resources,0
+Yes,Single,10,28,2216,Research Scientist,Research & Development,1
+Yes,Single,5,50,4728,Sales Executive,Sales,1
+Yes,Single,12,30,6877,Manufacturing Director,Research & Development,0
+No,Single,10,30,2206,Laboratory Technician,Research & Development,0
+No,Single,3,21,2610,Sales Representative,Sales,0
+Yes,Divorced,5,35,3743,Laboratory Technician,Research & Development,1
+Yes,Married,10,40,2213,Laboratory Technician,Research & Development,0
+No,Married,30,56,11103,Healthcare Representative,Research & Development,0
+No,Married,25,46,19081,Research Director,Research & Development,0
+Yes,Married,15,40,2741,Laboratory Technician,Research & Development,0
+Yes,Divorced,16,46,5021,Human Resources,Human Resources,0
+No,Single,16,35,4312,Sales Executive,Sales,0
+No,Single,20,40,13499,Research Director,Research & Development,0
+No,Married,10,36,11713,Research Director,Research & Development,0
+Yes,Single,20,43,4081,Research Scientist,Research & Development,0
+No,Divorced,2,31,2789,Sales Representative,Sales,0
+No,Married,8,36,2143,Human Resources,Human Resources,0
+Yes,Divorced,17,36,10252,Manufacturing Director,Research & Development,0
+No,Single,9,45,6632,Sales Representative,Sales,0
+Yes,Divorced,1,27,2566,Research Scientist,Research & Development,0
+No,Single,23,51,19537,Research Director,Research & Development,0
+No,Married,30,53,7525,Sales Executive,Sales,0
+No,Married,12,31,9824,Healthcare Representative,Research & Development,1
+No,Single,6,35,2559,Research Scientist,Research & Development,0
+No,Married,6,27,2099,Laboratory Technician,Research & Development,0
+No,Divorced,5,27,3816,Laboratory Technician,Research & Development,0
+No,Married,13,34,5957,Manufacturing Director,Research & Development,0
+No,Married,4,24,4999,Sales Executive,Sales,0
+No,Divorced,4,38,2610,Research Scientist,Research & Development,0
+No,Single,19,41,6151,Sales Executive,Sales,0
+Yes,Married,28,46,16872,Manager,Sales,0
+No,Single,6,30,6577,Sales Executive,Sales,0
+No,Divorced,23,46,19627,Research Director,Research & Development,0
+No,Single,9,27,6811,Healthcare Representative,Research & Development,0
+Yes,Single,10,32,4998,Research Scientist,Research & Development,0
+Yes,Single,16,41,13591,Manager,Sales,0
+Yes,Single,3,21,2174,Sales Representative,Sales,1
+No,Divorced,10,34,2996,Research Scientist,Research & Development,0
+No,Married,4,36,3688,Laboratory Technician,Research & Development,0
+No,Married,6,34,2231,Sales Representative,Sales,0
+No,Single,1,26,2293,Laboratory Technician,Research & Development,1
+No,Single,7,48,2559,Laboratory Technician,Research & Development,0
+No,Divorced,5,53,4450,Manufacturing Director,Research & Development,0
+Yes,Married,8,39,6120,Sales Executive,Sales,0
+No,Divorced,13,31,10793,Sales Executive,Sales,0
+No,Single,8,27,5071,Sales Executive,Sales,0
+Yes,Divorced,18,45,10761,Sales Executive,Sales,0
+No,Married,5,32,2794,Laboratory Technician,Research & Development,0
+No,Single,37,56,7260,Manufacturing Director,Research & Development,0
+No,Married,10,51,6132,Manufacturing Director,Research & Development,0
+No,Married,30,50,17639,Research Director,Research & Development,0
+No,Divorced,10,28,7655,Manufacturing Director,Research & Development,0
+No,Single,14,33,4508,Research Scientist,Research & Development,1
+Yes,Single,3,29,2404,Research Scientist,Research & Development,1
+No,Single,8,41,5003,Manufacturing Director,Research & Development,0
+No,Married,11,52,4941,Research Scientist,Research & Development,1
+Yes,Married,1,22,2853,Research Scientist,Research & Development,1
+No,Married,6,28,3196,Laboratory Technician,Research & Development,0
+No,Single,5,27,2045,Research Scientist,Research & Development,0
+No,Single,5,47,2976,Sales Representative,Sales,0
+No,Married,17,44,2042,Laboratory Technician,Research & Development,0
+No,Married,8,33,2756,Research Scientist,Research & Development,0
+No,Divorced,15,35,10274,Manufacturing Director,Research & Development,0
+Yes,Married,17,45,13245,Research Director,Research & Development,0
+Yes,Divorced,16,35,10388,Healthcare Representative,Research & Development,0
+No,Single,14,34,11631,Manager,Research & Development,0
+Yes,Married,5,24,4162,Sales Executive,Sales,0
+Yes,Single,8,26,5828,Sales Executive,Sales,1
+Yes,Married,4,32,4078,Sales Executive,Sales,0
+No,Divorced,6,43,2645,Research Scientist,Research & Development,0
+No,Divorced,3,34,2661,Laboratory Technician,Research & Development,0
+No,Single,8,37,4107,Healthcare Representative,Research & Development,0
+No,Married,14,32,6162,Manufacturing Director,Research & Development,0
+No,Married,9,31,6410,Human Resources,Human Resources,0
+No,Divorced,6,25,4000,Healthcare Representative,Research & Development,0
+Yes,Divorced,11,30,5209,Sales Executive,Sales,0
+No,Divorced,1,28,2596,Laboratory Technician,Research & Development,1
+No,Married,16,35,10903,Manufacturing Director,Research & Development,0
+No,Divorced,9,33,7119,Healthcare Representative,Research & Development,0
+No,Divorced,10,30,6118,Sales Executive,Sales,0
+No,Divorced,1,24,2694,Laboratory Technician,Research & Development,0
+No,Married,9,45,4447,Laboratory Technician,Research & Development,0
+No,Married,6,25,8639,Sales Executive,Sales,0
+No,Single,6,35,2859,Research Scientist,Research & Development,0
+No,Married,13,48,2259,Research Scientist,Research & Development,0
+No,Divorced,26,53,19094,Manager,Research & Development,0
+No,Married,13,31,2329,Sales Representative,Sales,0
+No,Divorced,2,58,2372,Research Scientist,Research & Development,0
+No,Single,3,31,2785,Sales Representative,Sales,1
+No,Single,9,39,7880,Sales Executive,Sales,0
+No,Married,16,51,12490,Research Director,Research & Development,0
+No,Divorced,10,41,4103,Sales Executive,Sales,0
+No,Divorced,8,29,3291,Research Scientist,Research & Development,0
+Yes,Divorced,3,58,2380,Laboratory Technician,Research & Development,1
+No,Married,10,49,5130,Research Scientist,Research & Development,0
+No,Married,1,51,2723,Research Scientist,Research & Development,0
+No,Married,1,24,2127,Laboratory Technician,Research & Development,0
+No,Single,6,39,3904,Research Scientist,Research & Development,1
+No,Single,6,52,3212,Laboratory Technician,Research & Development,0
+No,Single,17,35,6646,Research Scientist,Research & Development,0
+Yes,Single,26,45,18824,Manager,Sales,1
+Yes,Married,9,30,11416,Research Director,Research & Development,0
+No,Single,7,26,4969,Sales Executive,Sales,1
+No,Single,9,34,2311,Research Scientist,Research & Development,0
+No,Single,8,51,2838,Laboratory Technician,Research & Development,0
+Yes,Divorced,8,38,5605,Sales Executive,Sales,0
+Yes,Married,8,44,2559,Research Scientist,Research & Development,0
+No,Divorced,19,42,4556,Research Scientist,Research & Development,0
+No,Single,10,38,7625,Healthcare Representative,Research & Development,0
+Yes,Single,9,40,9094,Sales Executive,Sales,1
+No,Married,5,34,4325,Manufacturing Director,Research & Development,0
+Yes,Single,4,29,2389,Research Scientist,Research & Development,1
+No,Divorced,5,27,2517,Research Scientist,Research & Development,0
+No,Married,16,54,13549,Research Director,Research & Development,0
+No,Single,27,48,16885,Manager,Research & Development,0
+No,Single,6,44,3420,Research Scientist,Research & Development,0
+No,Single,18,53,8381,Sales Executive,Sales,0
+No,Single,10,28,8722,Healthcare Representative,Research & Development,1
+Yes,Single,10,38,7861,Manufacturing Director,Research & Development,0
+Yes,Married,1,28,2515,Laboratory Technician,Research & Development,1
+No,Divorced,6,40,3544,Research Scientist,Research & Development,0
+No,Single,1,19,2325,Sales Representative,Sales,1
