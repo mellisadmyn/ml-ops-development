@@ -1,0 +1,139 @@
+feature {
+  name: "MaritalStatus"
+  type: BYTES
+  domain: "MaritalStatus"
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "Age"
+  type: INT
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "Attrition"
+  type: INT
+  bool_domain {
+  }
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "Department"
+  type: BYTES
+  domain: "Department"
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "JobRole"
+  type: BYTES
+  domain: "JobRole"
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "MonthlyIncome"
+  type: INT
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "OverTime"
+  type: BYTES
+  domain: "OverTime"
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "TotalWorkingYears"
+  type: INT
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+string_domain {
+  name: "MaritalStatus"
+  value: "Divorced"
+  value: "Married"
+  value: "Single"
+}
+string_domain {
+  name: "Department"
+  value: "Human Resources"
+  value: "Research & Development"
+  value: "Sales"
+}
+string_domain {
+  name: "JobRole"
+  value: "Healthcare Representative"
+  value: "Human Resources"
+  value: "Laboratory Technician"
+  value: "Manager"
+  value: "Manufacturing Director"
+  value: "Research Director"
+  value: "Research Scientist"
+  value: "Sales Executive"
+  value: "Sales Representative"
+}
+string_domain {
+  name: "OverTime"
+  value: "No"
+  value: "Yes"
+}
